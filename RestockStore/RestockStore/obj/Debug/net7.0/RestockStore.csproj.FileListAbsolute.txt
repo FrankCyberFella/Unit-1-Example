@@ -1,0 +1,14 @@
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\bin\Debug\net7.0\RestockStore.exe
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\bin\Debug\net7.0\RestockStore.deps.json
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\bin\Debug\net7.0\RestockStore.runtimeconfig.json
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\bin\Debug\net7.0\RestockStore.dll
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\bin\Debug\net7.0\RestockStore.pdb
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\obj\Debug\net7.0\RestockStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\obj\Debug\net7.0\RestockStore.AssemblyInfoInputs.cache
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\obj\Debug\net7.0\RestockStore.AssemblyInfo.cs
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\obj\Debug\net7.0\RestockStore.csproj.CoreCompileInputs.cache
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\obj\Debug\net7.0\RestockStore.dll
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\obj\Debug\net7.0\refint\RestockStore.dll
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\obj\Debug\net7.0\RestockStore.pdb
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\obj\Debug\net7.0\RestockStore.genruntimeconfig.cache
+C:\Users\frank\workspace\repos\Unit-1-Example\RestockStore\RestockStore\obj\Debug\net7.0\ref\RestockStore.dll

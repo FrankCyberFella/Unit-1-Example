@@ -1,0 +1,14 @@
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\bin\Debug\net8.0\CoinFlip.exe
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\bin\Debug\net8.0\CoinFlip.deps.json
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\bin\Debug\net8.0\CoinFlip.runtimeconfig.json
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\bin\Debug\net8.0\CoinFlip.dll
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\bin\Debug\net8.0\CoinFlip.pdb
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\obj\Debug\net8.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\obj\Debug\net8.0\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\obj\Debug\net8.0\CoinFlip.AssemblyInfo.cs
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\obj\Debug\net8.0\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\obj\Debug\net8.0\CoinFlip.dll
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\obj\Debug\net8.0\refint\CoinFlip.dll
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\obj\Debug\net8.0\CoinFlip.pdb
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\obj\Debug\net8.0\CoinFlip.genruntimeconfig.cache
+C:\Users\frank\workspace\repos\Unit-1-Example\CoinFlip\CoinFlip\obj\Debug\net8.0\ref\CoinFlip.dll
